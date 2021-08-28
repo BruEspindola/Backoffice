@@ -1,4 +1,4 @@
-# Backoffice
+# Backoffice 🚧
 
 <div align="center">
     <img src="https://img-premium.flaticon.com/png/512/2003/premium/2003338.png?token=exp=1630112218~hmac=349c44c64df148f2d1c6519809da3736" alt="banner-logo" width="150">
@@ -18,6 +18,11 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+## Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ## :computer: Como rodar
 
@@ -46,3 +51,14 @@
 
 > **e-mail:** adm@contato.com   ||
 > **senha:** adm123
+
+
+## Features
+- [x] Login
+- [x] Dashboard 
+- [x] Cadastro de usuário
+- [x] Cadastro de produtos
+- [x] Listagem de produtos
+- [x] Listagem de Usuários
+- [x] Edição de usuário
+- [ ] Edição de produtos 
