@@ -41,3 +41,8 @@
     
   npm run dev
 ```
+
+## :bug: Login
+
+> **e-mail:** adm@contato.com   ||
+> **senha:** adm123
