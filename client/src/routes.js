@@ -12,7 +12,6 @@ import UserEdit from './pages/admin/user/user.edit';
 import UserRegister from './pages/admin/user/user.register';
 
 import Login from './pages/admin/login';
-import ProductsDetails from './pages/user/product/products.details';
 
 import PrivateRoute from './services/wAuth';
 
@@ -25,7 +24,6 @@ export default function Routes(){
                 <PrivateRoute path="/admin" exact component={Dashboard} />
 
                 <PrivateRoute path="/admin/products" exact component={Product} />
-                <PrivateRoute path="/product/:idProduct" exact component={ProductsDetails} />
                 <PrivateRoute path="/admin/products/register" exact component={ProductRegister} />
                 <PrivateRoute path="/admin/products/edit/:idProduct" exact component={ProductEdit} />
 
