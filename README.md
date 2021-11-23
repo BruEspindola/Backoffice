@@ -24,7 +24,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 1º Clone o repositorio
 ```bash
-  https://github.com/BruEspindola/web.git
+  https://github.com/BruEspindola/Backoffice.git
 ```
 2º Instalar bibliotecas
 ```bash
